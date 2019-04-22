@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are the colours of the polish flag?",
+        "answers": [
+            "White and red",
+            "Yellow and Green",
+            "Red, black and green"
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "Polish flag has two colours. White at the top and red at the bottom."
+    },
+    {
+        "question": "How many province Poland has?",
+        "answers": [
+            "18",
+            "10",
+            "16"
+        ],
+        "correctAnswerIndex": 2,
+        "feedback": "There are 16 province in Poland with 18 capitals"
+    }
+]
